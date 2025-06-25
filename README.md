@@ -15,3 +15,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start --tunnel
    ```
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/25c3511f-d09c-4ef1-8aba-505eaa59d97e" />
